@@ -4,5 +4,5 @@ ls
 
 echo $SHELL
 
-echo -ed "\e[31mText\e0m in Red Color"
+echo -e "\e[31mText in Red Color"
 echo "Added one more for colorings"
